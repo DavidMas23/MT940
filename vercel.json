@@ -1,16 +1,8 @@
 {
-  "version": 2,
-  "name": "dashboard-corporativo",
-  "builds": [
+  "redirects": [
     {
-      "src": "*.html",
-      "use": "@vercel/static"
-    }
-  ],
-  "routes": [
-    {
-      "src": "/(.*)",
-      "dest": "/index.html"
+      "source": "/dashboard",
+      "destination": "/index.html"
     }
   ]
 }
