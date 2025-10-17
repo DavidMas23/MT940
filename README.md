@@ -45,4 +45,3 @@ Este proyecto está optimizado para despliegue en Vercel y otras plataformas de 
 
 ## Autor
 
-Desarrollado para VIA Company
